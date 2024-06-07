@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\praty\\Development\\Graphic_Programming\\OpenGL_Basics\\",
+  "WorkspaceRootPath": "C:\\Users\\praty\\Development\\Graphic_Programming\\trail\\OGLBSourceCode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2071E6DA-81F4-426F-8CAA-7929D3A5DF34}|Triangle\\Triangle.vcxproj|C:\\Users\\praty\\Development\\Graphic_Programming\\OpenGL_Basics\\Triangle\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2071E6DA-81F4-426F-8CAA-7929D3A5DF34}|Triangle\\Triangle.vcxproj|C:\\Users\\praty\\Development\\Graphic_Programming\\trail\\OGLBSourceCode\\Triangle\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2071E6DA-81F4-426F-8CAA-7929D3A5DF34}|Triangle\\Triangle.vcxproj|solutionrelative:Triangle\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\praty\\Development\\Graphic_Programming\\OpenGL_Basics\\Triangle\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\praty\\Development\\Graphic_Programming\\trail\\OGLBSourceCode\\Triangle\\main.cpp",
               "RelativeDocumentMoniker": "Triangle\\main.cpp",
-              "ToolTip": "C:\\Users\\praty\\Development\\Graphic_Programming\\OpenGL_Basics\\Triangle\\main.cpp",
+              "ToolTip": "C:\\Users\\praty\\Development\\Graphic_Programming\\trail\\OGLBSourceCode\\Triangle\\main.cpp",
               "RelativeToolTip": "Triangle\\main.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
